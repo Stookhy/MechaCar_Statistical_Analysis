@@ -20,7 +20,7 @@
    
    Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
    
-## Create Visualizations for the Trip Analysis
+## Summary Statistics on Suspension Coils
 
    ### Summary
 
@@ -28,7 +28,7 @@
 
    ### Summary
 
-## Design a Study Comparing the MechaCar to the Competition
+## Study Design: MechaCar vs Competition
 
    What metric or metrics are you going to test?
    
