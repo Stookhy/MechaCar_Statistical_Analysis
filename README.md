@@ -19,3 +19,21 @@
    Is the slope of the linear model considered to be zero? Why or why not?
    
    Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+   
+## Create Visualizations for the Trip Analysis
+
+   ### Summary
+
+## T-Tests on Suspension Coils
+
+   ### Summary
+
+## Design a Study Comparing the MechaCar to the Competition
+
+   What metric or metrics are you going to test?
+   
+   What is the null hypothesis or alternative hypothesis?
+   
+   What statistical test would you use to test the hypothesis? And why?
+   
+   What data is needed to run the statistical test?
