@@ -11,3 +11,11 @@
    8.  Implement and evaluate a chi-squared test for a given dataset.
    9.  Identify key characteristics of A/B and A/A testing.
    10. Determine the most appropriate statistical test for a given hypothesis and dataset.
+
+## Linear Regression to Predict MPG
+
+   Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+   
+   Is the slope of the linear model considered to be zero? Why or why not?
+   
+   Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
