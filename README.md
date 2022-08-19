@@ -23,17 +23,27 @@
 
    Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
    
+      The vehicle dimensions (length and weight), spoiler angle, ground clearance, and existence of AWD provide a random amount of variance to the mpg values in the dataset.
+   
    Is the slope of the linear model considered to be zero? Why or why not?
    
+      The slope of the linear model is not considered to be zero. A zero slope only exists when the model can be represented by a horizontal line, where the y values never change regardless of the x values.
+   
    Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+   
+      The linear model effectively predicts mpg of MechaCar prototypes effectively. It does so because there are multiple variables that help determine how the car will perform from a mpg point of view.
    
 ## Summary Statistics on Suspension Coils
 
    ### Summary
+   
+      The current manufacturing data does not meet the maximum 100 pounds per square inch variance for the suspension coils. Lots 1 and 2 meet this requirement, but not Lot 3. Lot 3 has a variance of over 170, which far exceeds the 100 pounds per square inch requirement. 
 
 ## T-Tests on Suspension Coils
 
    ### Summary
+   
+      Mean of all lots is 1498.78. On the other hand, the mean of lot 1 is 1500, and lot 2 at 1500.2. Lastly, the mean of lot 3 is 1496.14. Therefore, the hypothesis is that the true mean for each lot does not equal 1498.78
 
 ## Study Design: MechaCar vs Competition
 
