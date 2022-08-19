@@ -68,7 +68,7 @@
    
    What is the null hypothesis or alternative hypothesis?
    
-   *  •	The null hypothesis is the mean of the safety rating is zero, the alternative hypothesis is not zero
+   *  The null hypothesis is the mean of the safety rating is zero, the alternative hypothesis is not zero
    
    What statistical test would you use to test the hypothesis? And why?
    
