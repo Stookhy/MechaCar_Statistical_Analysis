@@ -33,17 +33,32 @@
    
    *  The linear model effectively predicts mpg of MechaCar prototypes effectively. It does so because there are multiple variables that help determine how the car will perform from a mpg point of view.
    
+![This is an image](https://github.com/Stookhy/MechaCar_Statistical_Analysis/blob/main/Resources/Linear%20Regression.png?raw=true)
+   
 ## Summary Statistics on Suspension Coils
 
    ### Summary
    
    *  The current manufacturing data does not meet the maximum 100 pounds per square inch variance for the suspension coils. Lots 1 and 2 meet this requirement, but not Lot 3. Lot 3 has a variance of over 170, which far exceeds the 100 pounds per square inch requirement. 
+   
+![This is an image](https://github.com/Stookhy/MechaCar_Statistical_Analysis/blob/main/Resources/Lot%20Summary.png?raw=true)
+
+![This is an image](https://github.com/Stookhy/MechaCar_Statistical_Analysis/blob/main/Resources/Total%20Summary.png?raw=true)
 
 ## T-Tests on Suspension Coils
 
    ### Summary
    
    *  Mean of all lots is 1498.78. On the other hand, the mean of lot 1 is 1500, and lot 2 at 1500.2. Lastly, the mean of lot 3 is 1496.14. Therefore, the hypothesis is that the true mean for each lot does not equal 1498.78
+   
+![This is an image](https://github.com/Stookhy/MechaCar_Statistical_Analysis/blob/main/Resources/T.Test%20PSI.png?raw=true)
+
+![This is an image](https://github.com/Stookhy/MechaCar_Statistical_Analysis/blob/main/Resources/T.Test%20Lot%201.png?raw=true)
+
+![This is an image](https://github.com/Stookhy/MechaCar_Statistical_Analysis/blob/main/Resources/T.Test%20Lot%202.png?raw=true)
+
+![This is an image](https://github.com/Stookhy/MechaCar_Statistical_Analysis/blob/main/Resources/T.Test%20Lot%203.png?raw=true)
+   
 
 ## Study Design: MechaCar vs Competition
 
