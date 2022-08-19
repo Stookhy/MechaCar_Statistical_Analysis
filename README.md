@@ -23,34 +23,42 @@
 
    Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
    
-      The vehicle dimensions (length and weight), spoiler angle, ground clearance, and existence of AWD provide a random amount of variance to the mpg values in the dataset.
+   *  The vehicle dimensions (length and weight), spoiler angle, ground clearance, and existence of AWD provide a random amount of variance to the mpg values in the dataset.
    
    Is the slope of the linear model considered to be zero? Why or why not?
    
-      The slope of the linear model is not considered to be zero. A zero slope only exists when the model can be represented by a horizontal line, where the y values never change regardless of the x values.
+   *  The slope of the linear model is not considered to be zero. A zero slope only exists when the model can be represented by a horizontal line, where the y values never change regardless of the x values.
    
    Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
    
-      The linear model effectively predicts mpg of MechaCar prototypes effectively. It does so because there are multiple variables that help determine how the car will perform from a mpg point of view.
+   *  The linear model effectively predicts mpg of MechaCar prototypes effectively. It does so because there are multiple variables that help determine how the car will perform from a mpg point of view.
    
 ## Summary Statistics on Suspension Coils
 
    ### Summary
    
-      The current manufacturing data does not meet the maximum 100 pounds per square inch variance for the suspension coils. Lots 1 and 2 meet this requirement, but not Lot 3. Lot 3 has a variance of over 170, which far exceeds the 100 pounds per square inch requirement. 
+   *  The current manufacturing data does not meet the maximum 100 pounds per square inch variance for the suspension coils. Lots 1 and 2 meet this requirement, but not Lot 3. Lot 3 has a variance of over 170, which far exceeds the 100 pounds per square inch requirement. 
 
 ## T-Tests on Suspension Coils
 
    ### Summary
    
-      Mean of all lots is 1498.78. On the other hand, the mean of lot 1 is 1500, and lot 2 at 1500.2. Lastly, the mean of lot 3 is 1496.14. Therefore, the hypothesis is that the true mean for each lot does not equal 1498.78
+   *  Mean of all lots is 1498.78. On the other hand, the mean of lot 1 is 1500, and lot 2 at 1500.2. Lastly, the mean of lot 3 is 1496.14. Therefore, the hypothesis is that the true mean for each lot does not equal 1498.78
 
 ## Study Design: MechaCar vs Competition
 
    What metric or metrics are you going to test?
    
+   *  The metrics that will be tested are vehicle dimensions, spoiler angle, ground clearance , and AWD existence
+   
    What is the null hypothesis or alternative hypothesis?
+   
+   *  •	The null hypothesis is the mean of the safety rating is zero, the alternative hypothesis is not zero
    
    What statistical test would you use to test the hypothesis? And why?
    
+   *  I would use a z-test to test hypothesis, given that information provided (sample average, mean, and SD). It will help determine whether the population averages are different when the variances are known and the sample size is large.
+   
    What data is needed to run the statistical test?
+   
+   *  The data required for the test are sample average, mean, and standard deviation.
